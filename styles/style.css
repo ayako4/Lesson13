@@ -38,7 +38,7 @@ i {
    height: 40px;
 }
 .icon :hover {
-   background-color: blue;
+   background-color: rgb(246, 248, 104);
 }
 
 .hamburger__button {
@@ -68,9 +68,6 @@ i {
    top: 100%;
    transform: translateY(-100%);
 }
-.hamburger__button :hover {
-   background-color: hotpink;
-}
 
 img {
    max-width: 100%;
@@ -84,7 +81,5 @@ img {
    }
    .nav {
       display: none;
-   }
-   .icon {
    }
 }
